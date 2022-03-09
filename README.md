@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashley Kannemeyer</h1>
 <h3 align="center">A Full-Stack Web Developer from Cape Town.</h3>
 
-- 🔭 I’m currently working on [a point of sale](https://github.com/TDL2627/nike-store)
+- 🔭 I’m currently working on [Mentor App](https://github.com/TDL2627/myMentor)
 
 - 🌱 I’m currently learning **Python, Vue JS and mongo DB**
 
