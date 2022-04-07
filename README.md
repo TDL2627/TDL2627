@@ -39,5 +39,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tdl2627&" alt="tdl2627" /></p>
 
-<p><a href="https://www.paypal.me/TDL2627"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0Z2Q4lvpSEG6_cYXpxNBTU-oPthNaqi3rATr_k2Y9zk1tTucBpYrv4KX8uWgFyCPz-0&usqp=CAU" height="200" width="210" alt="paypal.me/TDL2627" /></a></p><br><br>
+<p><a href="https://www.paypal.me/TDL2627" target="_blank"> <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0Z2Q4lvpSEG6_cYXpxNBTU-oPthNaqi3rATr_k2Y9zk1tTucBpYrv4KX8uWgFyCPz-0&usqp=CAU" height="200" width="210" alt="paypal.me/TDL2627" /></a></p><br><br>
 
