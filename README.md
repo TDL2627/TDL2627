@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tdl2627" alt="tdl2627" /></a> </p>
 
-- 🔭 I’m currently working on [DevelopingDevelopers](https://github.com/TDL2627/developingDevelopers)
+- 🔭 I’m currently working at [Mandelo](https://github.com/MandeloDev)
 
-- 🌱 I’m currently learning **Python, Vue JS and mongo DB**
+- 🌱 I’m currently working **React , Next JS,Hydrogen and Firebase**
 
-- 👯 I’m looking to collaborate on **emulators**
+- 👯 I’m looking to collaborate on **everything**
 
 - 👨‍💻 All of my projects are available at [https://portfolio2627-53bc0.web.app/](https://portfolio2627-53bc0.web.app/)
 
-- 💬 Ask me about **MySQL and CSS**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **ashleykannemeyer2@gmail.com**
 
