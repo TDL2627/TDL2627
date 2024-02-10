@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul-Malik Kannemeyer</h1>
+<h1 align="center">Hi 👋, I'm Ashley Kannemeyer</h1>
 <h3 align="center">A Full-Stack Web Developer from Cape Town.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdl2627&label=Profile%20views&color=0e75b6&style=flat" alt="tdl2627" /> </p>
