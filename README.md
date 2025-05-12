@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **everything**
 
-- 👨‍💻 All of my projects are available at [https://portfolio2627-53bc0.web.app/](https://portfolio2627-53bc0.web.app/)
+- 👨‍💻 All of my projects are available at [[https://portfolio2627-53bc0.web.app/](https://akannemeyer.vercel.app/)]([https://portfolio2627-53bc0.web.app/](https://akannemeyer.vercel.app/))
 
 - 💬 Ask me about **Anything**
 
