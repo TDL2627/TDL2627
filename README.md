@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashley Kannemeyer</h1>
+<h1 align="center">Hi 👋, I'm Abdul-Malik Kannemeyer</h1>
 <h3 align="center">A Full-Stack Web Developer from Cape Town.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdl2627&label=Profile%20views&color=0e75b6&style=flat" alt="tdl2627" /> </p>
@@ -26,7 +26,7 @@
 <a href="https://codepen.io/tdl2627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tdl2627" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashley kannemeyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashley kannemeyer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tdl2627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tdl2627" height="30" width="40" /></a>
-<a href="https://discord.gg/ASHLEY-KANNEMEYER#8637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ASHLEY-KANNEMEYER#8637" height="30" width="40" /></a>
+<a href="https://discord.gg/ASHLEY-KANNEMEYER#8637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Abdul-Malik-KANNEMEYER#8637" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
