@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tdl2627" alt="tdl2627" /></a> </p>
 
-- 🔭 I’m currently working at [Mandelo](https://github.com/MandeloDev)
+- 🔭 I’m currently freelancing and available for work!
 
 - 🌱 I’m currently working **React , Next JS,Hydrogen and Firebase**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ashleykannemeyer2@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ashley-kannemeyer-01b37121b/](https://www.linkedin.com/in/ashley-kannemeyer-01b37121b/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ashley-kannemeyer-01b37121b/](https://www.linkedin.com/in/abdul-malik-kannemeyer-01b37121b/)
 
 - ⚡ Fun fact **I am an animator**
 
